@@ -1,1 +1,2 @@
 c:\users\eduardookawa\documents\visual studio 2013\Projects\project-test\project-test\bin\Debug\project-test.exe.config
+C:\Users\eduardookawa\Desktop\git-test\project-test\project-test\bin\Debug\project-test.exe.config
